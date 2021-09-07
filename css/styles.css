@@ -1,0 +1,20 @@
+img {
+    width: 300px;
+    height: 400px;
+}
+
+p{
+    color:rgb(223, 223, 223); 
+    background-color:rgb(150, 95, 106);
+    font-family:serif;
+    font-size: 30px;
+    text-align:center;
+    font-weight: bold; 
+}
+
+#header {
+    background-color: darkgray;
+}
+.pink{
+    background-color: lightslategray;
+}
